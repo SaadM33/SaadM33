@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Saad%20El%20Maaqili&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full-stack%20software%20engineering%20student&descSize=18&descAlignY=52" width="100%" alt="Saad El Maaqili" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=FastAPI+%C2%B7+NestJS+%C2%B7+React;Auth%2C+databases%2C+real-time+features%2C+CI;Open+to+a+PFE+internship+from+December+2026" alt="FastAPI · NestJS · React" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=FastAPI+%C2%B7+NestJS+%C2%B7+Java+%C2%B7+React;I+love+untangling+hard+problems;From+low-level+C+to+full-stack+web+apps" alt="FastAPI · NestJS · Java · React" />
 
 <a href="https://www.linkedin.com/in/saad-el-maaqili/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:sadmaaqili@gmail.com"><img src="https://img.shields.io/badge/Email-30363d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -12,12 +12,14 @@
 
 ## About me
 
-I'm a full-stack software engineering student based in **Rabat, Morocco**. I build complete
-web products: database schema, authentication, APIs, frontend, tests and CI, mostly with
-**FastAPI, NestJS and React**, on a solid C/C++ foundation.
+I'm a software engineering student based in **Rabat, Morocco**, and I love understanding how
+complex systems work, then building my own. I started from
+the ground up in C and C++, and today I build full products end to end: database design,
+authentication, APIs, frontend, tests and CI.
 
-- **Now:** shipping a hackathon platform with a team of five (Scrum, code review, CI on every merge)
-- **Looking for:** a 4–6 month end-of-studies internship (PFE), starting December 2026
+- **Backend:** FastAPI, NestJS and Java
+- **Frontend:** React and TypeScript
+- **Currently:** building a hackathon platform with a team of five (Scrum, code review, CI on every merge)
 - **Languages:** Arabic, French, English
 
 ## Tech stack
