@@ -2,9 +2,9 @@
 
 <img src="assets/header.svg" width="100%" alt="Saad El Maaqili — full-stack developer" />
 
-<a href="https://www.linkedin.com/in/saad-el-maaqili/"><img src="https://img.shields.io/badge/LinkedIn-fcee0a?style=for-the-badge&logo=linkedin&logoColor=0b0b0f" alt="LinkedIn" /></a>
-<a href="mailto:sadmaaqili@gmail.com"><img src="https://img.shields.io/badge/Email-05d9e8?style=for-the-badge&logo=gmail&logoColor=0b0b0f" alt="Email" /></a>
-<img src="https://komarev.com/ghpvc/?username=SaadM33&style=for-the-badge&color=ff003c&label=Profile+views" alt="Profile views" />
+<a href="https://www.linkedin.com/in/saad-el-maaqili/"><img src="https://img.shields.io/badge/LinkedIn-bfefff?style=for-the-badge&logo=linkedin&logoColor=06121f" alt="LinkedIn" /></a>
+<a href="mailto:sadmaaqili@gmail.com"><img src="https://img.shields.io/badge/Email-7fd8ff?style=for-the-badge&logo=gmail&logoColor=06121f" alt="Email" /></a>
+<img src="https://komarev.com/ghpvc/?username=SaadM33&style=for-the-badge&color=1e6fd9&label=Profile+views" alt="Profile views" />
 
 </div>
 
@@ -91,8 +91,8 @@ tests and CI.
       <p>
         <img src="https://img.shields.io/badge/C%2B%2B98-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++98" />
         <br />
-        <img src="https://img.shields.io/badge/POSIX_sockets-0b0b0f?style=flat-square&logo=linux&logoColor=fcee0a" alt="POSIX sockets" />
-        <img src="https://img.shields.io/badge/poll()-0b0b0f?style=flat-square" alt="poll()" />
+        <img src="https://img.shields.io/badge/POSIX_sockets-06121f?style=flat-square&logo=linux&logoColor=bfefff" alt="POSIX sockets" />
+        <img src="https://img.shields.io/badge/poll()-06121f?style=flat-square" alt="poll()" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -116,9 +116,9 @@ tests and CI.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SaadM33&background=0b0b0f&border=333333&stroke=333333&ring=fcee0a&fire=ff003c&currStreakNum=fcee0a&sideNums=05d9e8&currStreakLabel=fcee0a&sideLabels=05d9e8&dates=8b8b8b&hide_border=true" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=SaadM33&background=06121f&border=1c3350&stroke=1c3350&ring=bfefff&fire=5ccfff&currStreakNum=ffffff&sideNums=bfefff&currStreakLabel=bfefff&sideLabels=7fd8ff&dates=6b8aa6&hide_border=true" alt="GitHub streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaadM33&bg_color=0b0b0f&color=fcee0a&title_color=fcee0a&line=ff003c&point=05d9e8&area=true&area_color=ff003c&hide_border=true" width="100%" alt="Contribution graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaadM33&bg_color=06121f&color=bfefff&title_color=bfefff&line=5ccfff&point=ffffff&area=true&area_color=5ccfff&hide_border=true" width="100%" alt="Contribution graph" />
 
 </div>
 
