@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="90" viewBox="0 0 900 90">
+<style>
+  text{font-family:'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono','DejaVu Sans Mono',monospace}
+  .msg{font-size:14px;font-weight:700;letter-spacing:4px;fill:#fcee0a}
+  .dim{font-size:12px;letter-spacing:3px;fill:#05d9e8}
+  .scroll{animation:sc 6s linear infinite}
+  .blink{animation:bk 1s steps(1) infinite}
+  @keyframes sc{from{transform:translateX(0)}to{transform:translateX(-32px)}}
+  @keyframes bk{50%{opacity:0}}
+</style>
+<defs>
+  <pattern id="haz" width="32" height="20" patternUnits="userSpaceOnUse" patternTransform="skewX(-45)">
+    <rect width="16" height="20" fill="#ff003c"/><rect x="16" width="16" height="20" fill="#0b0b0f"/>
+  </pattern>
+  <clipPath id="c"><rect width="900" height="90" rx="10"/></clipPath>
+</defs>
+<g clip-path="url(#c)">
+  <rect width="900" height="90" fill="#0b0b0f"/>
+  <rect class="scroll" x="0" y="0" width="940" height="16" fill="url(#haz)"/>
+</g>
+<text class="msg" x="450" y="54" text-anchor="middle"><tspan class="blink" fill="#ff003c">■</tspan> END OF TRANSMISSION <tspan class="blink" fill="#ff003c">■</tspan></text>
+<text class="dim" x="450" y="76" text-anchor="middle">thanks for stopping by // SAADM33</text>
+</svg>

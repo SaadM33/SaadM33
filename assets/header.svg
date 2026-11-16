@@ -10,6 +10,9 @@
   .blink{animation:bk 1.2s steps(1) infinite}
   @keyframes sw{0%{transform:translateX(-120px)} 100%{transform:translateX(1020px)}}
   @keyframes rv{to{clip-path:inset(0 0 0 0)}}
+  .ul{stroke:#ff003c;stroke-width:4;stroke-dasharray:300;stroke-dashoffset:300;animation:ul .6s ease-out 1.6s forwards}
+  .ghost{fill:#ff003c;opacity:.55}
+  @keyframes ul{to{stroke-dashoffset:0}}
   @keyframes bk{50%{opacity:0}}
 </style>
 <defs>
@@ -25,7 +28,9 @@
 <path class="br" d="M30 52V30h22 M848 30h22v22 M870 188v22h-22 M52 210H30v-22"/>
 <rect x="60" y="48" width="170" height="22" fill="#fcee0a"/>
 <text class="tag" x="70" y="64">ID: SAADM33</text>
-<text class="meta" x="840" y="64" text-anchor="end"><tspan class="blink">●</tspan> STATUS: ONLINE</text>
+<text class="meta" x="840" y="64" text-anchor="end"><tspan class="blink" fill="#ff003c">●</tspan> STATUS: ONLINE</text>
+<text class="name rev ghost" x="63" y="141">SAAD EL MAAQILI</text>
 <text class="name rev" x="60" y="138">SAAD EL MAAQILI</text>
-<text class="meta" x="62" y="178">CLASS: FULL-STACK  //  BACKEND: FASTAPI · NESTJS · JAVA  //  UI: REACT</text>
+<line class="ul" x1="62" y1="152" x2="362" y2="152"/>
+<text class="meta" x="62" y="178">CLASS: FULL-STACK <tspan fill="#ff003c">//</tspan> BACKEND: FASTAPI · NESTJS · JAVA <tspan fill="#ff003c">//</tspan> UI: REACT</text>
 </svg>
