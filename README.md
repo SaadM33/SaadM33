@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Saad%20El%20Maaqili&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full-stack%20software%20engineering%20student&descSize=18&descAlignY=52" width="100%" alt="Saad El Maaqili" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=FastAPI+%C2%B7+NestJS+%C2%B7+Java+%C2%B7+React;I+love+untangling+hard+problems;From+low-level+C+to+full-stack+web+apps" alt="FastAPI · NestJS · Java · React" />
+<img src="assets/header.svg" width="100%" alt="Saad El Maaqili — full-stack developer" />
 
 <a href="https://www.linkedin.com/in/saad-el-maaqili/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:sadmaaqili@gmail.com"><img src="https://img.shields.io/badge/Email-30363d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -90,4 +88,3 @@ authentication, APIs, frontend, tests and CI.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer" width="100%" alt="" />

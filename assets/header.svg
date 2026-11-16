@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240">
+<style>
+  text{font-family:'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono','DejaVu Sans Mono',monospace}
+  .name{font-weight:800;font-size:62px;letter-spacing:3px;fill:#fcee0a}
+  .tag{font-size:13px;font-weight:700;letter-spacing:3px;fill:#0b0b0f}
+  .meta{font-size:13px;letter-spacing:2px;fill:#05d9e8}
+  .br{fill:none;stroke:#fcee0a;stroke-width:3}
+  .sweep{animation:sw 3.5s cubic-bezier(.6,0,.4,1) infinite}
+  .rev{clip-path:inset(0 100% 0 0);animation:rv 1.2s steps(14) .3s forwards}
+  .blink{animation:bk 1.2s steps(1) infinite}
+  @keyframes sw{0%{transform:translateX(-120px)} 100%{transform:translateX(1020px)}}
+  @keyframes rv{to{clip-path:inset(0 0 0 0)}}
+  @keyframes bk{50%{opacity:0}}
+</style>
+<defs>
+  <pattern id="stripes" width="16" height="16" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="8" height="16" fill="#fcee0a"/></pattern>
+  <linearGradient id="sw" x1="0" x2="1"><stop offset="0" stop-color="#fcee0a" stop-opacity="0"/><stop offset=".5" stop-color="#fcee0a" stop-opacity=".22"/><stop offset="1" stop-color="#fcee0a" stop-opacity="0"/></linearGradient>
+  <clipPath id="clip"><rect width="900" height="240" rx="10"/></clipPath>
+</defs>
+<rect width="900" height="240" rx="10" fill="#0b0b0f"/>
+<g clip-path="url(#clip)">
+  <rect class="sweep" x="0" y="0" width="120" height="240" fill="url(#sw)"/>
+  <rect x="0" y="226" width="900" height="14" fill="url(#stripes)"/>
+</g>
+<path class="br" d="M30 52V30h22 M848 30h22v22 M870 188v22h-22 M52 210H30v-22"/>
+<rect x="60" y="48" width="170" height="22" fill="#fcee0a"/>
+<text class="tag" x="70" y="64">ID: SAADM33</text>
+<text class="meta" x="840" y="64" text-anchor="end"><tspan class="blink">●</tspan> STATUS: ONLINE</text>
+<text class="name rev" x="60" y="138">SAAD EL MAAQILI</text>
+<text class="meta" x="62" y="178">CLASS: FULL-STACK  //  BACKEND: FASTAPI · NESTJS · JAVA  //  UI: REACT</text>
+</svg>
