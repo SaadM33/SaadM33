@@ -8,42 +8,9 @@
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="assets/about.svg" width="100%" alt="About me: software engineering student in Rabat, Morocco. Backend: FastAPI, NestJS, Java. Frontend: React, TypeScript. Languages: Arabic, French, English." />
 
-## About me
-
-I'm a software engineering student based in **Rabat, Morocco**, and I love understanding how
-complex systems work, then building my own. I started from the ground up in C and C++, and
-today I build full products end to end: database design, authentication, APIs, frontend,
-tests and CI.
-
-- **Backend:** FastAPI, NestJS and Java
-- **Frontend:** React and TypeScript
-- **Currently:** building a hackathon platform with a team of five (Scrum, code review, CI on every merge)
-- **Languages:** Arabic, French, English
-
-<img src="assets/divider.svg" width="100%" alt="" />
-
-## Tech stack
-
-<table align="center">
-  <tr>
-    <td align="right"><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=py,ts,js,java,c,cpp" alt="Python, TypeScript, JavaScript, Java, C, C++" /></td>
-  </tr>
-  <tr>
-    <td align="right"><b>Frameworks</b></td>
-    <td><img src="https://skillicons.dev/icons?i=fastapi,nestjs,react" alt="FastAPI, NestJS, React" /></td>
-  </tr>
-  <tr>
-    <td align="right"><b>Databases</b></td>
-    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,redis" alt="PostgreSQL, MySQL, Redis" /></td>
-  </tr>
-  <tr>
-    <td align="right"><b>Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,linux,git,githubactions" alt="Docker, Linux, Git, GitHub Actions" /></td>
-  </tr>
-</table>
+<img src="assets/stack.svg" width="100%" alt="Tech stack. Languages: Python, TypeScript, JavaScript, Java, C, C++. Frameworks: FastAPI, NestJS, React. Databases: PostgreSQL, MySQL, Redis. Tools: Docker, Linux, Git, GitHub Actions." />
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
