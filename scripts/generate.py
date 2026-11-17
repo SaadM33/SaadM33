@@ -34,7 +34,7 @@ ABOUT_BULLETS = [
 # Tech stack card: (label, comma-separated skillicons.dev ids). Icon list: https://skillicons.dev
 STACK_ROWS = [
     ("LANGUAGES", "py,ts,js,java,c,cpp"),
-    ("FRAMEWORKS", "fastapi,nestjs,react"),
+    ("FRAMEWORKS", "fastapi,nestjs,spring,react"),
     ("DATABASES", "postgres,mysql,redis"),
     ("TOOLS", "docker,linux,git,githubactions"),
 ]

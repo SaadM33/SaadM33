@@ -10,7 +10,7 @@
 
 <img src="assets/about.svg" width="100%" alt="About me: software engineering student in Rabat, Morocco. Backend: FastAPI, NestJS, Java. Frontend: React, TypeScript. Languages: Arabic, French, English." />
 
-<img src="assets/stack.svg" width="100%" alt="Tech stack. Languages: Python, TypeScript, JavaScript, Java, C, C++. Frameworks: FastAPI, NestJS, React. Databases: PostgreSQL, MySQL, Redis. Tools: Docker, Linux, Git, GitHub Actions." />
+<img src="assets/stack.svg" width="100%" alt="Tech stack. Languages: Python, TypeScript, JavaScript, Java, C, C++. Frameworks: FastAPI, NestJS, Spring Boot, React. Databases: PostgreSQL, MySQL, Redis. Tools: Docker, Linux, Git, GitHub Actions." />
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
